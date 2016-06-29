@@ -1,17 +1,17 @@
 
 # SEO settings
-title: "Think"
-title2: "space" # default: ""
-description: "Just another minimalist Jekyll theme that focuses on technical writing."
+title: "Nu"
+title2: "Analytics" # default: ""
+description: "Made-to-measure Data Science"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://heiswayi.github.io/thinkspace # site url
-baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
+url: http://nu-analytics.github.io # site url
+baseurl: "/" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: "heiswayi"
-twitter_username: "HeiswayiNrird"
+repo: http://github.com/nu-analytics/nu-analytics.github.io
+disqus_shortname: ""
+twitter_username: ""
 comments: true
 
 # Build settings
