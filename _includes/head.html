@@ -7,7 +7,6 @@
   {% assign page_title = '' %}
   {% if page.title == "Home" %}
       {% capture page_title %}
-        <img src="https://avatars0.githubusercontent.com/u/16263296?v=3&s=200.jpg">
         {{ site.title }}{{ site.title2 }} | {{ site.description }}
         {%if paginator and paginator.page != 1 %} - Página {{ paginator.page }}{% endif %}
       {% endcapture %}
@@ -21,7 +20,10 @@
       {{ page_title | strip | rstrip | lstrip | escape | strip_newlines }}
   {% endcapture %}
 
-  <title>{{ page_title }}</title>
+  <title>
+    <img src="https://avatars0.githubusercontent.com/u/16263296?v=3&s=200.jpg">
+    {{ page_title }}
+  </title>
 
   {% assign page_description = '' %}
   {% capture page_description %}
