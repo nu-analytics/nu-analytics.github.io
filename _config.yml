@@ -1,12 +1,16 @@
 
 # SEO settings
-title: "Nu"
+title: "Nu-"
 title2: "Analytics" # default: ""
 description: "Made-to-measure Data Science"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://nu-analytics.github.io # site url
 # baseurl: "/" # apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# avatar: https://avatars0.githubusercontent.com/u/16263296?v=3&s=200
+
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/nu-analytics/nu-analytics.github.io
@@ -29,15 +33,15 @@ sass:
 
 # Author settings
 author:
-  name     : "Heiswayi Nrird"
-  job      : "R&D Software Engineer"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
-  thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
-  url      : http://heiswayi.github.io
-  github   : http://github.com/heiswayi
-  twitter  : http://twitter.com/HeiswayiNrird
-  facebook : https://www.facebook.com/profile.php?id=1257583160
+  name     : ""
+  job      : ""
+  bio      : ""
+  thumb    : https://avatars0.githubusercontent.com/u/16263296?v=3&s=200.jpg
+  email    : kylenpayne@gmail.com
+  url      : http://nu-analytics.github.io
+  github   : http://github.com/nu-analytics
+  twitter  : 
+  facebook : 
   linkedin : http://linkedin.com/in/nrird
 
 # social settings
