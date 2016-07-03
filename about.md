@@ -37,4 +37,4 @@ Johns Hopkins Bloomberg School of Public Health
 
 ## Interested? 
 
-** Get ahold of us! ** contact@nu-analytics.com
+**Get ahold of us!** contact@nu-analytics.com
