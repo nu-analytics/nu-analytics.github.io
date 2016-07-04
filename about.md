@@ -6,7 +6,7 @@ permalink: /about/
 
 **Made-to-measure** data-science.
 
-## We specialize in scientic data analysis. We have consulting with the following on their data analysis needs:
+## We specialize in scientic data analysis. We have worked with the following on their data analysis needs:
 
 <table width="500" border="0" cellpadding="5">
 
